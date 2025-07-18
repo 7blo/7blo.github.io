@@ -1,11 +1,6 @@
 {
   "names": {
     "7blo": "npub1355k2lnehxuggw5x2z2vmrhl7yt32rdvxu0tdeptz877d6a4teyqeml2jy"
-  },
-  "relays": {
-    "npub1355k2lnehxuggw5x2z2vmrhl7yt32rdvxu0tdeptz877d6a4teyqeml2jy": [
-      "wss://relay.damus.io",
-      "wss://nostr.land"
-    ]
   }
+ 
 }
