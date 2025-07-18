@@ -1,9 +1,9 @@
 {
   "names": {
-    "7blo": "8d29657e79b9b8843a865094cd8efff117150dac371eb6e42b11fde6ebb55e48"
+    "7blo": "npub1355k2lnehxuggw5x2z2vmrhl7yt32rdvxu0tdeptz877d6a4teyqeml2jy"
   },
   "relays": {
-    "8d29657e79b9b8843a865094cd8efff117150dac371eb6e42b11fde6ebb55e48": [
+    "npub1355k2lnehxuggw5x2z2vmrhl7yt32rdvxu0tdeptz877d6a4teyqeml2jy": [
       "wss://relay.damus.io",
       "wss://nostr.land"
     ]
