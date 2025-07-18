@@ -1,0 +1,11 @@
+{
+  "names": {
+    "7blo": "8d29657e79b9b8843a865094cd8efff117150dac371eb6e42b11fde6ebb55e48"
+  },
+  "relays": {
+    "8d29657e79b9b8843a865094cd8efff117150dac371eb6e42b11fde6ebb55e48": [
+      "wss://relay.damus.io",
+      "wss://nostr.land"
+    ]
+  }
+}
